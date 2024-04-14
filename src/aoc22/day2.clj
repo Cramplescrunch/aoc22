@@ -41,5 +41,4 @@ C Z")
    "C Z" (+ 6 1)
    })
 
-
 (compute-total-score p2-scores real-input)
